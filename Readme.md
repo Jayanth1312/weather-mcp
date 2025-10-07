@@ -13,7 +13,7 @@ A Model Context Protocol (MCP) server that provides weather information through 
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jayanth1312/weather-mcp.git
 cd weather-mcp
 npm install && npm run build
 ```
